@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 code on main branch
 code on main branch2
-=======
-cod on the new branch 
->>>>>>> newBranch
